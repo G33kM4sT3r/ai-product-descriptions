@@ -1,0 +1,183 @@
+# =============================================================================
+# Generierte Dateien
+# =============================================================================
+
+# Generierte Produktbeschreibungen
+products_with_descriptions.json
+
+# KI-Generierungs-Cache
+generation/generation_cache.json
+
+# Generierte Markdown-Dateien (Ordner behalten, Inhalt ignorieren)
+products/*.md
+!products/.gitkeep
+
+# =============================================================================
+# Lokale Konfigurationsdateien
+# =============================================================================
+generation/gen-desc.conf.php
+generation/gen-markdown.conf.php
+
+# =============================================================================
+# macOS
+# =============================================================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Icon muss mit zwei \r enden
+Icon
+
+# Vorschaubilder
+._*
+
+# Dateien, die im Stammverzeichnis eines Volumes erscheinen können
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Verzeichnisse, die auf entfernten AFP-Freigaben erstellt werden können
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# =============================================================================
+# Windows
+# =============================================================================
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# =============================================================================
+# Linux
+# =============================================================================
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# =============================================================================
+# IDEs und Editoren
+# =============================================================================
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+.history/
+*.vsix
+
+# JetBrains (PhpStorm, IntelliJ, etc.)
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+[._]*.s[a-v][a-z]
+!*.svg
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+Session.vim
+Sessionx.vim
+.netrwhist
+tags
+[._]*.un~
+
+# =============================================================================
+# PHP
+# =============================================================================
+
+# Composer
+/vendor/
+composer.lock
+composer.phar
+
+# PHPUnit
+.phpunit.result.cache
+.phpunit.cache/
+phpunit.xml
+
+# PHP CS Fixer
+.php-cs-fixer.cache
+.php_cs.cache
+
+# PHPStan
+phpstan.neon
+
+# Psalm
+psalm.xml
+
+# =============================================================================
+# Logs und temporäre Dateien
+# =============================================================================
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+.cache/
+tmp/
+temp/
+logs/
+
+# =============================================================================
+# Umgebungsvariablen und Konfiguration
+# =============================================================================
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+config.local.php
+*.local.php
+
+# =============================================================================
+# Sonstiges
+# =============================================================================
+
+# Sicherungsdateien
+*.backup
+*.bkp
+*~
+
+# Archive
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Datenbanken
+*.sql
+*.sqlite
+*.db

@@ -1,0 +1,2572 @@
+[
+    {
+        "produktbezeichnung": "Akku-Bohrschrauber 18V Brushless",
+        "artikelnummer": "BM-100001",
+        "produktkategorie": "Elektrowerkzeuge",
+        "technische_spezifikationen": [
+            {
+                "key": "Spannung",
+                "value": "18 V"
+            },
+            {
+                "key": "Drehmoment",
+                "value": "60 Nm"
+            },
+            {
+                "key": "Leerlaufdrehzahl",
+                "value": "0–1800 U\/min"
+            },
+            {
+                "key": "Akkukapazität",
+                "value": "4,0 Ah"
+            },
+            {
+                "key": "Bohrfutter",
+                "value": "13 mm Schnellspann"
+            },
+            {
+                "key": "Ladezeit",
+                "value": "60 min"
+            },
+            {
+                "key": "Drehmomentstufen",
+                "value": "20+1"
+            },
+            {
+                "key": "Gewicht mit Akku",
+                "value": "1,8 kg"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Motor",
+                "value": "Brushless"
+            },
+            {
+                "key": "Ganganzahl",
+                "value": "2"
+            },
+            {
+                "key": "LED-Arbeitslicht",
+                "value": "Ja"
+            },
+            {
+                "key": "Akkusystem",
+                "value": "Li-Ion Wechselakku"
+            },
+            {
+                "key": "Bithalter",
+                "value": "Magnetisch"
+            },
+            {
+                "key": "Gürtelclip",
+                "value": "Inklusive"
+            },
+            {
+                "key": "Transportkoffer",
+                "value": "Inklusive"
+            },
+            {
+                "key": "Garantie",
+                "value": "3 Jahre"
+            }
+        ],
+        "preis": 179.99
+    },
+    {
+        "produktbezeichnung": "Schlagbohrmaschine 850 W",
+        "artikelnummer": "BM-100002",
+        "produktkategorie": "Elektrowerkzeuge",
+        "technische_spezifikationen": [
+            {
+                "key": "Leistung",
+                "value": "850 W"
+            },
+            {
+                "key": "Bohrfutter",
+                "value": "13 mm"
+            },
+            {
+                "key": "Schlagzahl",
+                "value": "0–48000 bpm"
+            },
+            {
+                "key": "Leerlaufdrehzahl",
+                "value": "0–2800 U\/min"
+            },
+            {
+                "key": "Bohrkapazität Beton",
+                "value": "16 mm"
+            },
+            {
+                "key": "Bohrkapazität Stahl",
+                "value": "13 mm"
+            },
+            {
+                "key": "Bohrkapazität Holz",
+                "value": "30 mm"
+            },
+            {
+                "key": "Kabellänge",
+                "value": "4 m"
+            },
+            {
+                "key": "Gewicht",
+                "value": "2,4 kg"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Rechts-Linkslauf",
+                "value": "Ja"
+            },
+            {
+                "key": "Softgrip",
+                "value": "Ja"
+            },
+            {
+                "key": "Schnellspannbohrfutter",
+                "value": "Ja"
+            },
+            {
+                "key": "Tiefenanschlag",
+                "value": "Inklusive"
+            },
+            {
+                "key": "Zusatzhandgriff",
+                "value": "Verstellbar 360°"
+            },
+            {
+                "key": "Staubschutz",
+                "value": "Ja"
+            },
+            {
+                "key": "Garantie",
+                "value": "2 Jahre"
+            }
+        ],
+        "preis": 89.99
+    },
+    {
+        "produktbezeichnung": "Stichsäge 710 W Pendelhub",
+        "artikelnummer": "BM-100003",
+        "produktkategorie": "Elektrowerkzeuge",
+        "technische_spezifikationen": [
+            {
+                "key": "Leistung",
+                "value": "710 W"
+            },
+            {
+                "key": "Hubzahl",
+                "value": "800–3000 min-1"
+            },
+            {
+                "key": "Schnitttiefe Holz",
+                "value": "80 mm"
+            },
+            {
+                "key": "Schnitttiefe Metall",
+                "value": "10 mm"
+            },
+            {
+                "key": "Schnitttiefe Kunststoff",
+                "value": "20 mm"
+            },
+            {
+                "key": "Hublänge",
+                "value": "23 mm"
+            },
+            {
+                "key": "Gehrungswinkel",
+                "value": "±45°"
+            },
+            {
+                "key": "Gewicht",
+                "value": "2,1 kg"
+            },
+            {
+                "key": "Kabellänge",
+                "value": "3 m"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Pendelhub",
+                "value": "4-stufig"
+            },
+            {
+                "key": "Werkzeugloser Blattwechsel",
+                "value": "Ja"
+            },
+            {
+                "key": "Blasfunktion",
+                "value": "Zuschaltbar"
+            },
+            {
+                "key": "LED-Arbeitslicht",
+                "value": "Ja"
+            },
+            {
+                "key": "Staubabsaugung",
+                "value": "Anschlussmöglichkeit"
+            },
+            {
+                "key": "Fußplatte",
+                "value": "Aluminium"
+            },
+            {
+                "key": "Garantie",
+                "value": "2 Jahre"
+            }
+        ],
+        "preis": 74.99
+    },
+    {
+        "produktbezeichnung": "Winkelschleifer 125 mm 1200 W",
+        "artikelnummer": "BM-100004",
+        "produktkategorie": "Elektrowerkzeuge",
+        "technische_spezifikationen": [
+            {
+                "key": "Scheibendurchmesser",
+                "value": "125 mm"
+            },
+            {
+                "key": "Leistung",
+                "value": "1200 W"
+            },
+            {
+                "key": "Drehzahl",
+                "value": "11000 U\/min"
+            },
+            {
+                "key": "Spindelgewinde",
+                "value": "M14"
+            },
+            {
+                "key": "Scheibenstärke max.",
+                "value": "6 mm"
+            },
+            {
+                "key": "Gewicht",
+                "value": "2,3 kg"
+            },
+            {
+                "key": "Kabellänge",
+                "value": "2,5 m"
+            },
+            {
+                "key": "Schalldruckpegel",
+                "value": "92 dB(A)"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Sanftanlauf",
+                "value": "Ja"
+            },
+            {
+                "key": "Schutzhaube",
+                "value": "Verstellbar"
+            },
+            {
+                "key": "Wiederanlaufschutz",
+                "value": "Ja"
+            },
+            {
+                "key": "Spindelarretierung",
+                "value": "Ja"
+            },
+            {
+                "key": "Überlastschutz",
+                "value": "Elektronisch"
+            },
+            {
+                "key": "Seitlicher Handgriff",
+                "value": "Beidseitig montierbar"
+            },
+            {
+                "key": "Garantie",
+                "value": "2 Jahre"
+            }
+        ],
+        "preis": 69.99
+    },
+    {
+        "produktbezeichnung": "Akkuschrauber 12V Kompakt",
+        "artikelnummer": "BM-100005",
+        "produktkategorie": "Elektrowerkzeuge",
+        "technische_spezifikationen": [
+            {
+                "key": "Spannung",
+                "value": "12 V"
+            },
+            {
+                "key": "Drehmoment",
+                "value": "30 Nm"
+            },
+            {
+                "key": "Akkukapazität",
+                "value": "2,0 Ah"
+            },
+            {
+                "key": "Leerlaufdrehzahl",
+                "value": "0–1350 U\/min"
+            },
+            {
+                "key": "Bohrfutter",
+                "value": "10 mm Schnellspann"
+            },
+            {
+                "key": "Drehmomentstufen",
+                "value": "15+1"
+            },
+            {
+                "key": "Ladezeit",
+                "value": "45 min"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Gewicht",
+                "value": "0,9 kg"
+            },
+            {
+                "key": "LED-Licht",
+                "value": "Ja"
+            },
+            {
+                "key": "Akkuanzeige",
+                "value": "3-stufig LED"
+            },
+            {
+                "key": "Rechts-Linkslauf",
+                "value": "Ja"
+            },
+            {
+                "key": "Kompaktdesign",
+                "value": "Ja"
+            },
+            {
+                "key": "Ladegerät",
+                "value": "Schnelllader inklusive"
+            },
+            {
+                "key": "Softbag",
+                "value": "Inklusive"
+            },
+            {
+                "key": "Garantie",
+                "value": "2 Jahre"
+            }
+        ],
+        "preis": 79.99
+    },
+    {
+        "produktbezeichnung": "Kreissägeblatt Holz 190 mm",
+        "artikelnummer": "BM-100006",
+        "produktkategorie": "Werkzeugzubehör",
+        "technische_spezifikationen": [
+            {
+                "key": "Durchmesser",
+                "value": "190 mm"
+            },
+            {
+                "key": "Bohrung",
+                "value": "30 mm"
+            },
+            {
+                "key": "Zähnezahl",
+                "value": "24"
+            },
+            {
+                "key": "Schnittbreite",
+                "value": "2,6 mm"
+            },
+            {
+                "key": "Stammblattdicke",
+                "value": "1,6 mm"
+            },
+            {
+                "key": "Max. Drehzahl",
+                "value": "6500 U\/min"
+            },
+            {
+                "key": "Zahnform",
+                "value": "Wechselzahn"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Material",
+                "value": "Hartmetall"
+            },
+            {
+                "key": "Schnittart",
+                "value": "Längsschnitt"
+            },
+            {
+                "key": "Geeignet für",
+                "value": "Weich- und Hartholz"
+            },
+            {
+                "key": "Lasergeschnitten",
+                "value": "Ja"
+            },
+            {
+                "key": "Antihaftbeschichtung",
+                "value": "Ja"
+            },
+            {
+                "key": "Reduktionsringe",
+                "value": "20\/16 mm inklusive"
+            },
+            {
+                "key": "Lebensdauer",
+                "value": "Langlebig"
+            }
+        ],
+        "preis": 24.99
+    },
+    {
+        "produktbezeichnung": "Schraubendreher-Set 12-teilig",
+        "artikelnummer": "BM-100007",
+        "produktkategorie": "Handwerkzeuge",
+        "technische_spezifikationen": [
+            {
+                "key": "Teileanzahl",
+                "value": "12"
+            },
+            {
+                "key": "Klingenmaterial",
+                "value": "Chrom-Vanadium"
+            },
+            {
+                "key": "Schlitz-Größen",
+                "value": "3, 4, 5.5, 6.5, 8 mm"
+            },
+            {
+                "key": "Kreuzschlitz-Größen",
+                "value": "PH0, PH1, PH2, PH3"
+            },
+            {
+                "key": "Pozidriv-Größen",
+                "value": "PZ1, PZ2, PZ3"
+            },
+            {
+                "key": "Klingenhärte",
+                "value": "58-62 HRC"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Griff",
+                "value": "Ergonomisch"
+            },
+            {
+                "key": "Magnetische Spitze",
+                "value": "Ja"
+            },
+            {
+                "key": "Griffmaterial",
+                "value": "Zwei-Komponenten"
+            },
+            {
+                "key": "Kraftform-Griff",
+                "value": "Ja"
+            },
+            {
+                "key": "Durchgehende Klinge",
+                "value": "Ja"
+            },
+            {
+                "key": "Aufbewahrung",
+                "value": "Wandhalter inklusive"
+            },
+            {
+                "key": "VDE-Isolierung",
+                "value": "Nein"
+            },
+            {
+                "key": "Garantie",
+                "value": "Lebenslang"
+            }
+        ],
+        "preis": 29.99
+    },
+    {
+        "produktbezeichnung": "Ratschenkasten 94-teilig",
+        "artikelnummer": "BM-100008",
+        "produktkategorie": "Handwerkzeuge",
+        "technische_spezifikationen": [
+            {
+                "key": "Teileanzahl",
+                "value": "94"
+            },
+            {
+                "key": "Antrieb",
+                "value": "1\/4 Zoll & 1\/2 Zoll"
+            },
+            {
+                "key": "Ratschenzähnezahl",
+                "value": "72"
+            },
+            {
+                "key": "Stecknüsse 1\/4",
+                "value": "4-14 mm"
+            },
+            {
+                "key": "Stecknüsse 1\/2",
+                "value": "10-32 mm"
+            },
+            {
+                "key": "Verlängerungen",
+                "value": "50, 125, 250 mm"
+            },
+            {
+                "key": "Drehmoment max.",
+                "value": "350 Nm"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Material",
+                "value": "Chrom-Vanadium-Stahl"
+            },
+            {
+                "key": "Koffer",
+                "value": "Kunststoff"
+            },
+            {
+                "key": "Umschaltmechanismus",
+                "value": "Feinverzahnt"
+            },
+            {
+                "key": "Kardangelenke",
+                "value": "Inklusive"
+            },
+            {
+                "key": "Bitkassette",
+                "value": "31-teilig inklusive"
+            },
+            {
+                "key": "Oberflächenbehandlung",
+                "value": "Verchromt"
+            },
+            {
+                "key": "DIN-Norm",
+                "value": "DIN 3120"
+            },
+            {
+                "key": "Garantie",
+                "value": "10 Jahre"
+            }
+        ],
+        "preis": 89.99
+    },
+    {
+        "produktbezeichnung": "Hammer 500 g Fiberglas",
+        "artikelnummer": "BM-100009",
+        "produktkategorie": "Handwerkzeuge",
+        "technische_spezifikationen": [
+            {
+                "key": "Kopfgewicht",
+                "value": "500 g"
+            },
+            {
+                "key": "Stielmaterial",
+                "value": "Fiberglas"
+            },
+            {
+                "key": "Gesamtlänge",
+                "value": "330 mm"
+            },
+            {
+                "key": "Kopfmaterial",
+                "value": "Gehärteter Stahl C50"
+            },
+            {
+                "key": "Kopfhärte",
+                "value": "50-52 HRC"
+            },
+            {
+                "key": "Gesamtgewicht",
+                "value": "680 g"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Rutschhemmend",
+                "value": "Ja"
+            },
+            {
+                "key": "Vibrationsarm",
+                "value": "Ja"
+            },
+            {
+                "key": "Hammerkopfform",
+                "value": "Schlosserhammer"
+            },
+            {
+                "key": "Magnetischer Nagelhalter",
+                "value": "Ja"
+            },
+            {
+                "key": "Öse zur Befestigung",
+                "value": "Ja"
+            },
+            {
+                "key": "Bruchsicher",
+                "value": "Ja"
+            },
+            {
+                "key": "Garantie",
+                "value": "Lebenslang"
+            }
+        ],
+        "preis": 18.99
+    },
+    {
+        "produktbezeichnung": "Wasserwaage Aluminium 60 cm",
+        "artikelnummer": "BM-100010",
+        "produktkategorie": "Handwerkzeuge",
+        "technische_spezifikationen": [
+            {
+                "key": "Länge",
+                "value": "60 cm"
+            },
+            {
+                "key": "Material",
+                "value": "Aluminium"
+            },
+            {
+                "key": "Profilhöhe",
+                "value": "56 mm"
+            },
+            {
+                "key": "Profilbreite",
+                "value": "24 mm"
+            },
+            {
+                "key": "Gewicht",
+                "value": "420 g"
+            },
+            {
+                "key": "Wandstärke",
+                "value": "1,5 mm"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Libellen",
+                "value": "3"
+            },
+            {
+                "key": "Messgenauigkeit",
+                "value": "0,5 mm\/m"
+            },
+            {
+                "key": "Libellenart",
+                "value": "Acrylglas, stoßfest"
+            },
+            {
+                "key": "Horizontallibelle",
+                "value": "Ja"
+            },
+            {
+                "key": "Vertikallibelle",
+                "value": "Ja"
+            },
+            {
+                "key": "45°-Libelle",
+                "value": "Ja"
+            },
+            {
+                "key": "Endkappen",
+                "value": "Gummi stoßdämpfend"
+            },
+            {
+                "key": "Magnethalterung",
+                "value": "Nein"
+            },
+            {
+                "key": "Garantie",
+                "value": "5 Jahre"
+            }
+        ],
+        "preis": 24.99
+    },
+    {
+        "produktbezeichnung": "Innenwandfarbe Weiß 10 L",
+        "artikelnummer": "BM-100011",
+        "produktkategorie": "Farben & Lacke",
+        "technische_spezifikationen": [
+            {
+                "key": "Inhalt",
+                "value": "10 L"
+            },
+            {
+                "key": "Deckkraftklasse",
+                "value": "1"
+            },
+            {
+                "key": "Reichweite",
+                "value": "70 m²"
+            },
+            {
+                "key": "Nassabriebklasse",
+                "value": "2"
+            },
+            {
+                "key": "Glanzgrad",
+                "value": "Matt"
+            },
+            {
+                "key": "Dichte",
+                "value": "1,55 g\/cm³"
+            },
+            {
+                "key": "VOC-Gehalt",
+                "value": "< 1 g\/L"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Trocknungszeit",
+                "value": "4 h"
+            },
+            {
+                "key": "Emissionsarm",
+                "value": "Ja"
+            },
+            {
+                "key": "Überarbeitbar nach",
+                "value": "12 h"
+            },
+            {
+                "key": "Verdünnung",
+                "value": "Max. 5% Wasser"
+            },
+            {
+                "key": "Geruchsneutral",
+                "value": "Ja"
+            },
+            {
+                "key": "Allergikergeeignet",
+                "value": "Ja"
+            },
+            {
+                "key": "Konservierungsmittelfrei",
+                "value": "Ja"
+            },
+            {
+                "key": "Umweltzeichen",
+                "value": "Blauer Engel"
+            }
+        ],
+        "preis": 49.99
+    },
+    {
+        "produktbezeichnung": "Holzschutzlasur Eiche 5 L",
+        "artikelnummer": "BM-100012",
+        "produktkategorie": "Farben & Lacke",
+        "technische_spezifikationen": [
+            {
+                "key": "Inhalt",
+                "value": "5 L"
+            },
+            {
+                "key": "Ergiebigkeit",
+                "value": "60 m²"
+            },
+            {
+                "key": "Farbton",
+                "value": "Eiche hell"
+            },
+            {
+                "key": "Basis",
+                "value": "Lösemittelbasiert"
+            },
+            {
+                "key": "Trockenextrakt",
+                "value": "45%"
+            },
+            {
+                "key": "Viskosität",
+                "value": "65 s DIN 4"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "UV-beständig",
+                "value": "Ja"
+            },
+            {
+                "key": "Für Außenbereich",
+                "value": "Ja"
+            },
+            {
+                "key": "Diffusionsoffen",
+                "value": "Ja"
+            },
+            {
+                "key": "Wasserabweisend",
+                "value": "Ja"
+            },
+            {
+                "key": "Bläueschutz",
+                "value": "Ja"
+            },
+            {
+                "key": "Schimmelschutz",
+                "value": "Ja"
+            },
+            {
+                "key": "Tropfgehemmt",
+                "value": "Ja"
+            },
+            {
+                "key": "Anstrichintervall",
+                "value": "3-5 Jahre"
+            }
+        ],
+        "preis": 59.99
+    },
+    {
+        "produktbezeichnung": "Heizkörperlack Weiß 750 ml",
+        "artikelnummer": "BM-100013",
+        "produktkategorie": "Farben & Lacke",
+        "technische_spezifikationen": [
+            {
+                "key": "Inhalt",
+                "value": "750 ml"
+            },
+            {
+                "key": "Hitzebeständig",
+                "value": "bis 120 °C"
+            },
+            {
+                "key": "Ergiebigkeit",
+                "value": "10 m²"
+            },
+            {
+                "key": "Glanzgrad",
+                "value": "Seidenmatt"
+            },
+            {
+                "key": "Basis",
+                "value": "Wasserbasiert"
+            },
+            {
+                "key": "Dichte",
+                "value": "1,3 g\/cm³"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Vergilbungsfrei",
+                "value": "Ja"
+            },
+            {
+                "key": "Geruchsarm",
+                "value": "Ja"
+            },
+            {
+                "key": "Trocknungszeit",
+                "value": "4-6 h"
+            },
+            {
+                "key": "Überarbeitbar",
+                "value": "nach 24 h"
+            },
+            {
+                "key": "Kratzfest",
+                "value": "Ja"
+            },
+            {
+                "key": "Abriebfest",
+                "value": "Ja"
+            },
+            {
+                "key": "Gebrauchsfertig",
+                "value": "Ja"
+            },
+            {
+                "key": "Werkzeug",
+                "value": "Pinsel, Rolle, Spritzpistole"
+            }
+        ],
+        "preis": 16.99
+    },
+    {
+        "produktbezeichnung": "LED-Deckenleuchte 24 W Neutralweiß",
+        "artikelnummer": "BM-100014",
+        "produktkategorie": "Beleuchtung",
+        "technische_spezifikationen": [
+            {
+                "key": "Leistung",
+                "value": "24 W"
+            },
+            {
+                "key": "Lichtfarbe",
+                "value": "4000 K"
+            },
+            {
+                "key": "Lichtstrom",
+                "value": "2400 lm"
+            },
+            {
+                "key": "Energieeffizienzklasse",
+                "value": "A+"
+            },
+            {
+                "key": "Farbwiedergabeindex",
+                "value": "Ra > 80"
+            },
+            {
+                "key": "Durchmesser",
+                "value": "380 mm"
+            },
+            {
+                "key": "Höhe",
+                "value": "65 mm"
+            },
+            {
+                "key": "Abstrahlwinkel",
+                "value": "120°"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Dimmbar",
+                "value": "Nein"
+            },
+            {
+                "key": "Lebensdauer",
+                "value": "25000 h"
+            },
+            {
+                "key": "Schutzart",
+                "value": "IP20"
+            },
+            {
+                "key": "Material Schirm",
+                "value": "PMMA opal"
+            },
+            {
+                "key": "Material Gehäuse",
+                "value": "Metall pulverbeschichtet"
+            },
+            {
+                "key": "Sofort 100% Helligkeit",
+                "value": "Ja"
+            },
+            {
+                "key": "Schaltzyklen",
+                "value": "> 15000"
+            },
+            {
+                "key": "Garantie",
+                "value": "3 Jahre"
+            }
+        ],
+        "preis": 39.99
+    },
+    {
+        "produktbezeichnung": "Außenwandleuchte Edelstahl IP44",
+        "artikelnummer": "BM-100015",
+        "produktkategorie": "Beleuchtung",
+        "technische_spezifikationen": [
+            {
+                "key": "Schutzart",
+                "value": "IP44"
+            },
+            {
+                "key": "Fassung",
+                "value": "E27"
+            },
+            {
+                "key": "Max. Leuchtmittel",
+                "value": "60 W"
+            },
+            {
+                "key": "Höhe",
+                "value": "240 mm"
+            },
+            {
+                "key": "Breite",
+                "value": "90 mm"
+            },
+            {
+                "key": "Ausladung",
+                "value": "150 mm"
+            },
+            {
+                "key": "Spannung",
+                "value": "230 V"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Material",
+                "value": "Edelstahl"
+            },
+            {
+                "key": "Bewegungsmelder",
+                "value": "Nein"
+            },
+            {
+                "key": "Oberflächenfinish",
+                "value": "Gebürstet"
+            },
+            {
+                "key": "Glas",
+                "value": "Opal"
+            },
+            {
+                "key": "LED-kompatibel",
+                "value": "Ja"
+            },
+            {
+                "key": "Montageart",
+                "value": "Wandmontage"
+            },
+            {
+                "key": "Leuchtmittel enthalten",
+                "value": "Nein"
+            },
+            {
+                "key": "Schutzklasse",
+                "value": "I (Schutzleiter erforderlich)"
+            }
+        ],
+        "preis": 49.99
+    },
+    {
+        "produktbezeichnung": "Rasenmäher Benzin 46 cm",
+        "artikelnummer": "BM-100016",
+        "produktkategorie": "Gartengeräte",
+        "technische_spezifikationen": [
+            {
+                "key": "Schnittbreite",
+                "value": "46 cm"
+            },
+            {
+                "key": "Motorleistung",
+                "value": "2,6 kW"
+            },
+            {
+                "key": "Fangkorb",
+                "value": "60 L"
+            },
+            {
+                "key": "Hubraum",
+                "value": "139 cm³"
+            },
+            {
+                "key": "Tankinhalt",
+                "value": "0,9 L"
+            },
+            {
+                "key": "Schnitthöhe",
+                "value": "25-75 mm"
+            },
+            {
+                "key": "Gewicht",
+                "value": "32 kg"
+            },
+            {
+                "key": "Rasenfläche empfohlen",
+                "value": "1400 m²"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Radantrieb",
+                "value": "Ja"
+            },
+            {
+                "key": "Höhenverstellung",
+                "value": "7-stufig"
+            },
+            {
+                "key": "Mulchfunktion",
+                "value": "Ja (Mulchkit optional)"
+            },
+            {
+                "key": "Seitenauswurf",
+                "value": "Nein"
+            },
+            {
+                "key": "Radlager",
+                "value": "Kugelgelagert"
+            },
+            {
+                "key": "Gehäusematerial",
+                "value": "Stahlblech"
+            },
+            {
+                "key": "Startsystem",
+                "value": "Seilzug"
+            },
+            {
+                "key": "Motorhersteller",
+                "value": "OHV 4-Takt"
+            }
+        ],
+        "preis": 449
+    },
+    {
+        "produktbezeichnung": "Elektro-Heckenschere 600 mm",
+        "artikelnummer": "BM-100017",
+        "produktkategorie": "Gartengeräte",
+        "technische_spezifikationen": [
+            {
+                "key": "Schwertlänge",
+                "value": "600 mm"
+            },
+            {
+                "key": "Leistung",
+                "value": "550 W"
+            },
+            {
+                "key": "Schnittlänge",
+                "value": "560 mm"
+            },
+            {
+                "key": "Hubzahl",
+                "value": "1600 min⁻¹"
+            },
+            {
+                "key": "Gewicht",
+                "value": "3,4 kg"
+            },
+            {
+                "key": "Kabellänge",
+                "value": "0,5 m"
+            },
+            {
+                "key": "Messerabstand",
+                "value": "20 mm"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Schnittstärke",
+                "value": "20 mm"
+            },
+            {
+                "key": "Zweihandschalter",
+                "value": "Ja"
+            },
+            {
+                "key": "Messerbremse",
+                "value": "< 1 Sekunde"
+            },
+            {
+                "key": "Schnellstoppfunktion",
+                "value": "Ja"
+            },
+            {
+                "key": "Lasergeschnittene Messer",
+                "value": "Ja"
+            },
+            {
+                "key": "Handschutz",
+                "value": "Transparent"
+            },
+            {
+                "key": "Kabelzugentlastung",
+                "value": "Ja"
+            },
+            {
+                "key": "Garantie",
+                "value": "2 Jahre"
+            }
+        ],
+        "preis": 69.99
+    },
+    {
+        "produktbezeichnung": "OSB-Platte 18 mm Nut & Feder",
+        "artikelnummer": "BM-100018",
+        "produktkategorie": "Baustoffe",
+        "technische_spezifikationen": [
+            {
+                "key": "Stärke",
+                "value": "18 mm"
+            },
+            {
+                "key": "Format",
+                "value": "2500 x 675 mm"
+            },
+            {
+                "key": "Gewicht pro Platte",
+                "value": "ca. 20 kg"
+            },
+            {
+                "key": "Rohdichte",
+                "value": "600 kg\/m³"
+            },
+            {
+                "key": "Biegefestigkeit",
+                "value": "20 N\/mm²"
+            },
+            {
+                "key": "OSB-Typ",
+                "value": "OSB\/3"
+            },
+            {
+                "key": "Formaldehydklasse",
+                "value": "E1"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Verlegeart",
+                "value": "Nut & Feder"
+            },
+            {
+                "key": "Einsatzbereich",
+                "value": "Innenausbau"
+            },
+            {
+                "key": "Feuchtraumgeeignet",
+                "value": "Ja"
+            },
+            {
+                "key": "Tragende Konstruktion",
+                "value": "Ja"
+            },
+            {
+                "key": "PEFC-zertifiziert",
+                "value": "Ja"
+            },
+            {
+                "key": "Oberfläche",
+                "value": "Geschliffen"
+            },
+            {
+                "key": "Verlegung",
+                "value": "Schwimmend oder verschraubt"
+            },
+            {
+                "key": "CE-Kennzeichnung",
+                "value": "Ja"
+            }
+        ],
+        "preis": 18.99
+    },
+    {
+        "produktbezeichnung": "Gipskartonplatte 12,5 mm",
+        "artikelnummer": "BM-100019",
+        "produktkategorie": "Baustoffe",
+        "technische_spezifikationen": [
+            {
+                "key": "Stärke",
+                "value": "12,5 mm"
+            },
+            {
+                "key": "Format",
+                "value": "2000 x 1250 mm"
+            },
+            {
+                "key": "Gewicht pro Platte",
+                "value": "ca. 22 kg"
+            },
+            {
+                "key": "Flächengewicht",
+                "value": "8,8 kg\/m²"
+            },
+            {
+                "key": "Plattentyp",
+                "value": "Typ A (Standard)"
+            },
+            {
+                "key": "Biegefestigkeit",
+                "value": "> 160 N längs"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Feuerhemmend",
+                "value": "Nein"
+            },
+            {
+                "key": "Kantenausführung",
+                "value": "AK"
+            },
+            {
+                "key": "Feuchtraumgeeignet",
+                "value": "Nein (Standard)"
+            },
+            {
+                "key": "Schallschutz",
+                "value": "Gut"
+            },
+            {
+                "key": "Oberflächenqualität",
+                "value": "Q2-Q4 erreichbar"
+            },
+            {
+                "key": "Kartonfarbe",
+                "value": "Grau"
+            },
+            {
+                "key": "Verarbeitungstemperatur",
+                "value": "> 5 °C"
+            },
+            {
+                "key": "DIN-Norm",
+                "value": "DIN EN 520"
+            }
+        ],
+        "preis": 6.99
+    },
+    {
+        "produktbezeichnung": "Mischbatterie Küche Edelstahl",
+        "artikelnummer": "BM-100020",
+        "produktkategorie": "Sanitär",
+        "technische_spezifikationen": [
+            {
+                "key": "Anschluss",
+                "value": "Hochdruck"
+            },
+            {
+                "key": "Ausladung",
+                "value": "220 mm"
+            },
+            {
+                "key": "Höhe",
+                "value": "350 mm"
+            },
+            {
+                "key": "Lochdurchmesser",
+                "value": "35 mm"
+            },
+            {
+                "key": "Betriebsdruck",
+                "value": "0,5-10 bar"
+            },
+            {
+                "key": "Durchflussklasse",
+                "value": "A"
+            },
+            {
+                "key": "Warmwasser max.",
+                "value": "65 °C"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Schwenkbereich",
+                "value": "360°"
+            },
+            {
+                "key": "Kartusche",
+                "value": "Keramik"
+            },
+            {
+                "key": "Perlator",
+                "value": "Mit Luftbeimischung"
+            },
+            {
+                "key": "Wassersparfunktion",
+                "value": "Ja"
+            },
+            {
+                "key": "Fingerabdruckresistent",
+                "value": "Ja"
+            },
+            {
+                "key": "Anschlussschläuche",
+                "value": "Inklusive (3\/8 Zoll)"
+            },
+            {
+                "key": "Befestigungsmaterial",
+                "value": "Inklusive"
+            },
+            {
+                "key": "Garantie",
+                "value": "5 Jahre"
+            }
+        ],
+        "preis": 129
+    },
+    {
+        "produktbezeichnung": "WC-Sitz mit Absenkautomatik",
+        "artikelnummer": "BM-100021",
+        "produktkategorie": "Sanitär",
+        "technische_spezifikationen": [
+            {
+                "key": "Material",
+                "value": "Duroplast"
+            },
+            {
+                "key": "Form",
+                "value": "Oval"
+            },
+            {
+                "key": "Lochabstand",
+                "value": "150-180 mm"
+            },
+            {
+                "key": "Länge",
+                "value": "450 mm"
+            },
+            {
+                "key": "Breite",
+                "value": "370 mm"
+            },
+            {
+                "key": "Gewicht",
+                "value": "2,1 kg"
+            },
+            {
+                "key": "Max. Belastung",
+                "value": "150 kg"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Absenkautomatik",
+                "value": "Ja"
+            },
+            {
+                "key": "Schnellverschluss",
+                "value": "Ja"
+            },
+            {
+                "key": "Kratzfest",
+                "value": "Ja"
+            },
+            {
+                "key": "Antibakteriell",
+                "value": "Ja"
+            },
+            {
+                "key": "Scharniere",
+                "value": "Edelstahl"
+            },
+            {
+                "key": "Passform",
+                "value": "Universal Standard"
+            },
+            {
+                "key": "Reinigungsfreundlich",
+                "value": "Ja"
+            },
+            {
+                "key": "Garantie",
+                "value": "3 Jahre"
+            }
+        ],
+        "preis": 49.99
+    },
+    {
+        "produktbezeichnung": "Schutzkontakt-Steckdose Unterputz",
+        "artikelnummer": "BM-100022",
+        "produktkategorie": "Elektroinstallation",
+        "technische_spezifikationen": [
+            {
+                "key": "Nennspannung",
+                "value": "250 V"
+            },
+            {
+                "key": "Nennstrom",
+                "value": "16 A"
+            },
+            {
+                "key": "Schutzart",
+                "value": "IP20"
+            },
+            {
+                "key": "Steckzyklen",
+                "value": "> 5000"
+            },
+            {
+                "key": "Klemmbereich",
+                "value": "1,5-2,5 mm²"
+            },
+            {
+                "key": "Einbautiefe",
+                "value": "25 mm"
+            },
+            {
+                "key": "Rahmenmaß",
+                "value": "80 x 80 mm"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Kindersicherung",
+                "value": "Ja"
+            },
+            {
+                "key": "Montage",
+                "value": "Unterputz"
+            },
+            {
+                "key": "Steckklemmen",
+                "value": "Ja"
+            },
+            {
+                "key": "Rahmenfarbe",
+                "value": "Reinweiß glänzend"
+            },
+            {
+                "key": "Kombinierbar",
+                "value": "Mit Schalterserie"
+            },
+            {
+                "key": "Kratzfest",
+                "value": "Ja"
+            },
+            {
+                "key": "VDE-geprüft",
+                "value": "Ja"
+            },
+            {
+                "key": "Made in Germany",
+                "value": "Ja"
+            }
+        ],
+        "preis": 8.99
+    },
+    {
+        "produktbezeichnung": "CAT7 Netzwerkkabel 10 m",
+        "artikelnummer": "BM-100023",
+        "produktkategorie": "Elektroinstallation",
+        "technische_spezifikationen": [
+            {
+                "key": "Kategorie",
+                "value": "CAT7"
+            },
+            {
+                "key": "Länge",
+                "value": "10 m"
+            },
+            {
+                "key": "Übertragungsrate",
+                "value": "10 Gbit\/s"
+            },
+            {
+                "key": "Bandbreite",
+                "value": "600 MHz"
+            },
+            {
+                "key": "Leiterquerschnitt",
+                "value": "AWG 26"
+            },
+            {
+                "key": "Steckertyp",
+                "value": "RJ45"
+            },
+            {
+                "key": "Aderaufbau",
+                "value": "4 x 2 Paare"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Schirmung",
+                "value": "S\/FTP"
+            },
+            {
+                "key": "Farbe",
+                "value": "Grau"
+            },
+            {
+                "key": "Mantel",
+                "value": "LSZH halogenfrei"
+            },
+            {
+                "key": "Vergoldete Kontakte",
+                "value": "Ja"
+            },
+            {
+                "key": "Knickschutz",
+                "value": "Ja"
+            },
+            {
+                "key": "PoE-fähig",
+                "value": "Ja"
+            },
+            {
+                "key": "Abwärtskompatibel",
+                "value": "CAT6a, CAT6, CAT5e"
+            },
+            {
+                "key": "Norm",
+                "value": "ISO\/IEC 11801"
+            }
+        ],
+        "preis": 19.99
+    },
+    {
+        "produktbezeichnung": "Feinsteinzeug Bodenfliese Grau 60x60",
+        "artikelnummer": "BM-100024",
+        "produktkategorie": "Fliesen",
+        "technische_spezifikationen": [
+            {
+                "key": "Format",
+                "value": "60 x 60 cm"
+            },
+            {
+                "key": "Abriebklasse",
+                "value": "4"
+            },
+            {
+                "key": "Stärke",
+                "value": "10 mm"
+            },
+            {
+                "key": "Wasseraufnahme",
+                "value": "< 0,5%"
+            },
+            {
+                "key": "Biegefestigkeit",
+                "value": "> 35 N\/mm²"
+            },
+            {
+                "key": "Gewicht pro Stück",
+                "value": "8,6 kg"
+            },
+            {
+                "key": "Stück pro m²",
+                "value": "2,78"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Frostbeständig",
+                "value": "Ja"
+            },
+            {
+                "key": "Oberfläche",
+                "value": "Matt"
+            },
+            {
+                "key": "Rutschhemmung",
+                "value": "R10"
+            },
+            {
+                "key": "Rektifiziert",
+                "value": "Ja"
+            },
+            {
+                "key": "Für Fußbodenheizung",
+                "value": "Ja"
+            },
+            {
+                "key": "Außenbereich",
+                "value": "Ja"
+            },
+            {
+                "key": "Optik",
+                "value": "Betonoptik"
+            },
+            {
+                "key": "Pflegeleicht",
+                "value": "Ja"
+            }
+        ],
+        "preis": 29.99
+    },
+    {
+        "produktbezeichnung": "Akkukettensäge 36 V 35 cm",
+        "artikelnummer": "BM-100026",
+        "produktkategorie": "Gartengeräte",
+        "technische_spezifikationen": [
+            {
+                "key": "Spannung",
+                "value": "36 V"
+            },
+            {
+                "key": "Schwertlänge",
+                "value": "35 cm"
+            },
+            {
+                "key": "Kettengeschwindigkeit",
+                "value": "15 m\/s"
+            },
+            {
+                "key": "Akkukapazität",
+                "value": "4,0 Ah"
+            },
+            {
+                "key": "Kettenteilung",
+                "value": "3\/8 Zoll"
+            },
+            {
+                "key": "Gewicht mit Akku",
+                "value": "4,8 kg"
+            },
+            {
+                "key": "Schalldruckpegel",
+                "value": "84 dB(A)"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Kettenspannung",
+                "value": "Werkzeuglos"
+            },
+            {
+                "key": "Öltank",
+                "value": "Automatisch"
+            },
+            {
+                "key": "Öltankvolumen",
+                "value": "200 ml"
+            },
+            {
+                "key": "Kettenbremse",
+                "value": "Ja"
+            },
+            {
+                "key": "Rückschlagschutz",
+                "value": "Ja"
+            },
+            {
+                "key": "Sichtfenster Öltank",
+                "value": "Ja"
+            },
+            {
+                "key": "Oregon-Kette",
+                "value": "Ja"
+            },
+            {
+                "key": "Garantie",
+                "value": "3 Jahre"
+            }
+        ],
+        "preis": 329
+    },
+    {
+        "produktbezeichnung": "Laubbläser Elektro 3000 W",
+        "artikelnummer": "BM-100027",
+        "produktkategorie": "Gartengeräte",
+        "technische_spezifikationen": [
+            {
+                "key": "Leistung",
+                "value": "3000 W"
+            },
+            {
+                "key": "Luftgeschwindigkeit",
+                "value": "270 km\/h"
+            },
+            {
+                "key": "Luftvolumen",
+                "value": "840 m³\/h"
+            },
+            {
+                "key": "Häckselrate",
+                "value": "12:1"
+            },
+            {
+                "key": "Gewicht",
+                "value": "4,2 kg"
+            },
+            {
+                "key": "Kabellänge",
+                "value": "0,35 m"
+            },
+            {
+                "key": "Drehzahl",
+                "value": "8000-15000 U\/min"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Saugfunktion",
+                "value": "Ja"
+            },
+            {
+                "key": "Fangsack",
+                "value": "45 L"
+            },
+            {
+                "key": "Häckselfunktion",
+                "value": "Ja"
+            },
+            {
+                "key": "Geschwindigkeitsregelung",
+                "value": "Stufenlos"
+            },
+            {
+                "key": "Tragegurt",
+                "value": "Inklusive"
+            },
+            {
+                "key": "Laufrollen",
+                "value": "Ja"
+            },
+            {
+                "key": "Schnellverschluss Fangsack",
+                "value": "Ja"
+            },
+            {
+                "key": "Garantie",
+                "value": "2 Jahre"
+            }
+        ],
+        "preis": 79.99
+    },
+    {
+        "produktbezeichnung": "Gartenpumpe 3800 l\/h",
+        "artikelnummer": "BM-100028",
+        "produktkategorie": "Gartengeräte",
+        "technische_spezifikationen": [
+            {
+                "key": "Förderleistung",
+                "value": "3800 l\/h"
+            },
+            {
+                "key": "Leistung",
+                "value": "800 W"
+            },
+            {
+                "key": "Förderhöhe",
+                "value": "40 m"
+            },
+            {
+                "key": "Saughöhe",
+                "value": "8 m"
+            },
+            {
+                "key": "Max. Druck",
+                "value": "4 bar"
+            },
+            {
+                "key": "Anschluss Saug\/Druck",
+                "value": "1 Zoll \/ 1 Zoll"
+            },
+            {
+                "key": "Gewicht",
+                "value": "7,5 kg"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Gehäuse",
+                "value": "Edelstahl"
+            },
+            {
+                "key": "Trockenlaufschutz",
+                "value": "Ja"
+            },
+            {
+                "key": "Rückschlagventil",
+                "value": "Integriert"
+            },
+            {
+                "key": "Thermoschutz",
+                "value": "Ja"
+            },
+            {
+                "key": "Wasserablass",
+                "value": "Ja"
+            },
+            {
+                "key": "Kondensatormotor",
+                "value": "Wartungsfrei"
+            },
+            {
+                "key": "Tragegriff",
+                "value": "Ja"
+            },
+            {
+                "key": "Garantie",
+                "value": "2 Jahre"
+            }
+        ],
+        "preis": 119
+    },
+    {
+        "produktbezeichnung": "Tauchpumpe Klarwasser 9000 l\/h",
+        "artikelnummer": "BM-100029",
+        "produktkategorie": "Gartengeräte",
+        "technische_spezifikationen": [
+            {
+                "key": "Förderleistung",
+                "value": "9000 l\/h"
+            },
+            {
+                "key": "Max. Eintauchtiefe",
+                "value": "7 m"
+            },
+            {
+                "key": "Förderhöhe",
+                "value": "9 m"
+            },
+            {
+                "key": "Leistung",
+                "value": "400 W"
+            },
+            {
+                "key": "Anschluss",
+                "value": "1 1\/4 Zoll"
+            },
+            {
+                "key": "Kabellänge",
+                "value": "10 m"
+            },
+            {
+                "key": "Gewicht",
+                "value": "5,2 kg"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Schwimmerschalter",
+                "value": "Ja"
+            },
+            {
+                "key": "Partikelgröße",
+                "value": "max. 5 mm"
+            },
+            {
+                "key": "Flachsaugend bis",
+                "value": "2 mm"
+            },
+            {
+                "key": "Schutzart",
+                "value": "IPX8"
+            },
+            {
+                "key": "Gehäusematerial",
+                "value": "Kunststoff"
+            },
+            {
+                "key": "Edelstahlwelle",
+                "value": "Ja"
+            },
+            {
+                "key": "Dauerlauffest",
+                "value": "Ja"
+            },
+            {
+                "key": "Garantie",
+                "value": "2 Jahre"
+            }
+        ],
+        "preis": 59.99
+    },
+    {
+        "produktbezeichnung": "Rasentrimmer Akku 18 V",
+        "artikelnummer": "BM-100030",
+        "produktkategorie": "Gartengeräte",
+        "technische_spezifikationen": [
+            {
+                "key": "Spannung",
+                "value": "18 V"
+            },
+            {
+                "key": "Schnittkreis",
+                "value": "26 cm"
+            },
+            {
+                "key": "Akkukapazität",
+                "value": "2,5 Ah"
+            },
+            {
+                "key": "Drehzahl",
+                "value": "8500 U\/min"
+            },
+            {
+                "key": "Gewicht mit Akku",
+                "value": "2,8 kg"
+            },
+            {
+                "key": "Fadenstärke",
+                "value": "1,6 mm"
+            },
+            {
+                "key": "Laufzeit",
+                "value": "ca. 40 min"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Teleskopstiel",
+                "value": "Ja"
+            },
+            {
+                "key": "Pflanzenschutzbügel",
+                "value": "Ja"
+            },
+            {
+                "key": "Schwenkbarer Kopf",
+                "value": "Ja (90°)"
+            },
+            {
+                "key": "Fadenvorschub",
+                "value": "Automatisch"
+            },
+            {
+                "key": "Kantenschneidfunktion",
+                "value": "Ja"
+            },
+            {
+                "key": "Zusatzhandgriff",
+                "value": "Verstellbar"
+            },
+            {
+                "key": "Soft-Grip",
+                "value": "Ja"
+            },
+            {
+                "key": "Garantie",
+                "value": "2 Jahre"
+            }
+        ],
+        "preis": 89.99
+    },
+    {
+        "produktbezeichnung": "Holzschrauben TX 5x60 mm 200 Stk.",
+        "artikelnummer": "BM-100031",
+        "produktkategorie": "Befestigungstechnik",
+        "technische_spezifikationen": [
+            {
+                "key": "Durchmesser",
+                "value": "5 mm"
+            },
+            {
+                "key": "Länge",
+                "value": "60 mm"
+            },
+            {
+                "key": "Menge",
+                "value": "200"
+            },
+            {
+                "key": "Antriebsgröße",
+                "value": "TX25"
+            },
+            {
+                "key": "Kopfform",
+                "value": "Senkkopf"
+            },
+            {
+                "key": "Gewindeart",
+                "value": "Teilgewinde 36 mm"
+            },
+            {
+                "key": "Festigkeitsklasse",
+                "value": "4.6"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Antrieb",
+                "value": "TX"
+            },
+            {
+                "key": "Oberfläche",
+                "value": "Verzinkt"
+            },
+            {
+                "key": "Fräsrippen",
+                "value": "Ja"
+            },
+            {
+                "key": "Bohrspitze",
+                "value": "Ja"
+            },
+            {
+                "key": "Korrosionsschutz",
+                "value": "Gelb chromatiert"
+            },
+            {
+                "key": "Außenbereich geeignet",
+                "value": "Bedingt"
+            },
+            {
+                "key": "CE-Zulassung",
+                "value": "Ja"
+            },
+            {
+                "key": "Inklusive Bit",
+                "value": "Ja (TX25)"
+            }
+        ],
+        "preis": 14.99
+    },
+    {
+        "produktbezeichnung": "Universaldübel 8 mm 100 Stk.",
+        "artikelnummer": "BM-100032",
+        "produktkategorie": "Befestigungstechnik",
+        "technische_spezifikationen": [
+            {
+                "key": "Durchmesser",
+                "value": "8 mm"
+            },
+            {
+                "key": "Bohrloch",
+                "value": "8 mm"
+            },
+            {
+                "key": "Dübellänge",
+                "value": "50 mm"
+            },
+            {
+                "key": "Schraubengröße",
+                "value": "5-6 mm"
+            },
+            {
+                "key": "Menge",
+                "value": "100"
+            },
+            {
+                "key": "Tragfähigkeit Beton",
+                "value": "1,5 kN"
+            },
+            {
+                "key": "Bohrtiefe min.",
+                "value": "55 mm"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Material",
+                "value": "Nylon"
+            },
+            {
+                "key": "Untergrund",
+                "value": "Voll- und Hohlbaustoffe"
+            },
+            {
+                "key": "Spreizzone",
+                "value": "4-fach"
+            },
+            {
+                "key": "Kragenverhindert Durchdrehen",
+                "value": "Ja"
+            },
+            {
+                "key": "ETA-Zulassung",
+                "value": "Ja"
+            },
+            {
+                "key": "Brandklasse",
+                "value": "B1"
+            },
+            {
+                "key": "Temperaturbereich",
+                "value": "-40 bis +80 °C"
+            },
+            {
+                "key": "Made in Germany",
+                "value": "Ja"
+            }
+        ],
+        "preis": 7.99
+    },
+    {
+        "produktbezeichnung": "Gewindestange M10 verzinkt 1 m",
+        "artikelnummer": "BM-100033",
+        "produktkategorie": "Befestigungstechnik",
+        "technische_spezifikationen": [
+            {
+                "key": "Gewinde",
+                "value": "M10"
+            },
+            {
+                "key": "Länge",
+                "value": "1000 mm"
+            },
+            {
+                "key": "Gewindesteigung",
+                "value": "1,5 mm"
+            },
+            {
+                "key": "Kerndurchmesser",
+                "value": "8,16 mm"
+            },
+            {
+                "key": "Festigkeitsklasse",
+                "value": "4.8"
+            },
+            {
+                "key": "Zugfestigkeit",
+                "value": "400 N\/mm²"
+            },
+            {
+                "key": "Gewicht",
+                "value": "0,47 kg"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Material",
+                "value": "Stahl"
+            },
+            {
+                "key": "Korrosionsschutz",
+                "value": "Verzinkt"
+            },
+            {
+                "key": "Schichtdicke Zink",
+                "value": "5-8 µm"
+            },
+            {
+                "key": "DIN-Norm",
+                "value": "DIN 976-1"
+            },
+            {
+                "key": "Kürzbar",
+                "value": "Ja"
+            },
+            {
+                "key": "Rechtsgewinde",
+                "value": "Ja"
+            },
+            {
+                "key": "Vollgewinde",
+                "value": "Ja"
+            },
+            {
+                "key": "RoHS-konform",
+                "value": "Ja"
+            }
+        ],
+        "preis": 3.49
+    },
+    {
+        "produktbezeichnung": "Mörtelkübel 90 L",
+        "artikelnummer": "BM-100034",
+        "produktkategorie": "Baustoffe",
+        "technische_spezifikationen": [
+            {
+                "key": "Volumen",
+                "value": "90 L"
+            },
+            {
+                "key": "Durchmesser oben",
+                "value": "65 cm"
+            },
+            {
+                "key": "Durchmesser unten",
+                "value": "50 cm"
+            },
+            {
+                "key": "Höhe",
+                "value": "38 cm"
+            },
+            {
+                "key": "Wandstärke",
+                "value": "4 mm"
+            },
+            {
+                "key": "Gewicht",
+                "value": "2,8 kg"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Material",
+                "value": "Kunststoff"
+            },
+            {
+                "key": "Frostbeständig",
+                "value": "Ja"
+            },
+            {
+                "key": "UV-beständig",
+                "value": "Ja"
+            },
+            {
+                "key": "Stapelbar",
+                "value": "Ja"
+            },
+            {
+                "key": "Farbe",
+                "value": "Schwarz"
+            },
+            {
+                "key": "Verstärkte Griffe",
+                "value": "Ja"
+            },
+            {
+                "key": "Recyclingfähig",
+                "value": "Ja"
+            },
+            {
+                "key": "Lebensmittelecht",
+                "value": "Nein"
+            }
+        ],
+        "preis": 12.99
+    },
+    {
+        "produktbezeichnung": "Estrichbeton Sackware 25 kg",
+        "artikelnummer": "BM-100035",
+        "produktkategorie": "Baustoffe",
+        "technische_spezifikationen": [
+            {
+                "key": "Gewicht",
+                "value": "25 kg"
+            },
+            {
+                "key": "Körnung",
+                "value": "0–8 mm"
+            },
+            {
+                "key": "Druckfestigkeit",
+                "value": "C25 nach 28 Tagen"
+            },
+            {
+                "key": "Ergiebigkeit",
+                "value": "ca. 12,5 L"
+            },
+            {
+                "key": "Schichtdicke",
+                "value": "30-100 mm"
+            },
+            {
+                "key": "Wasserbedarf",
+                "value": "2,5-3 L \/ 25 kg"
+            },
+            {
+                "key": "Rohdichte",
+                "value": "ca. 2100 kg\/m³"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Verwendung",
+                "value": "Innen und Außen"
+            },
+            {
+                "key": "Verarbeitungszeit",
+                "value": "90 min"
+            },
+            {
+                "key": "Begehbar nach",
+                "value": "24 h"
+            },
+            {
+                "key": "Belegreif nach",
+                "value": "28 Tage"
+            },
+            {
+                "key": "Frostbeständig",
+                "value": "Ja (ausgehärtet)"
+            },
+            {
+                "key": "Fußbodenheizung geeignet",
+                "value": "Ja"
+            },
+            {
+                "key": "Verarbeitung",
+                "value": "Maschinell und manuell"
+            },
+            {
+                "key": "Lagerung",
+                "value": "Trocken, max. 6 Monate"
+            }
+        ],
+        "preis": 5.99
+    },
+    {
+        "produktbezeichnung": "Acryl Sanitär Weiß 300 ml",
+        "artikelnummer": "BM-100036",
+        "produktkategorie": "Sanitär",
+        "technische_spezifikationen": [
+            {
+                "key": "Inhalt",
+                "value": "300 ml"
+            },
+            {
+                "key": "Basis",
+                "value": "Acryl-Dispersion"
+            },
+            {
+                "key": "Temperaturbeständig",
+                "value": "-20 bis +80 °C"
+            },
+            {
+                "key": "Dichte",
+                "value": "1,75 g\/cm³"
+            },
+            {
+                "key": "Hautbildung",
+                "value": "10-15 min"
+            },
+            {
+                "key": "Aushärtung",
+                "value": "ca. 2 mm\/24 h"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Überstreichbar",
+                "value": "Ja"
+            },
+            {
+                "key": "Farbe",
+                "value": "Weiß"
+            },
+            {
+                "key": "Geruchsarm",
+                "value": "Ja"
+            },
+            {
+                "key": "Lösemittelfrei",
+                "value": "Ja"
+            },
+            {
+                "key": "Schimmelresistent",
+                "value": "Ja"
+            },
+            {
+                "key": "UV-beständig",
+                "value": "Ja"
+            },
+            {
+                "key": "Für Nassräume",
+                "value": "Ja"
+            },
+            {
+                "key": "ISEGA-zertifiziert",
+                "value": "Ja"
+            }
+        ],
+        "preis": 4.99
+    },
+    {
+        "produktbezeichnung": "Duschschlauch Edelstahl 1,75 m",
+        "artikelnummer": "BM-100037",
+        "produktkategorie": "Sanitär",
+        "technische_spezifikationen": [
+            {
+                "key": "Länge",
+                "value": "1,75 m"
+            },
+            {
+                "key": "Innenschlauch",
+                "value": "EPDM"
+            },
+            {
+                "key": "Außendurchmesser",
+                "value": "14 mm"
+            },
+            {
+                "key": "Betriebsdruck",
+                "value": "max. 10 bar"
+            },
+            {
+                "key": "Temperatur",
+                "value": "max. 70 °C"
+            },
+            {
+                "key": "Gewicht",
+                "value": "320 g"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Knickschutz",
+                "value": "Ja"
+            },
+            {
+                "key": "Anschluss",
+                "value": "1\/2 Zoll"
+            },
+            {
+                "key": "Drehkonus",
+                "value": "360° beidseitig"
+            },
+            {
+                "key": "Verdrehsicher",
+                "value": "Ja"
+            },
+            {
+                "key": "Nickelfrei",
+                "value": "Ja"
+            },
+            {
+                "key": "DVGW-geprüft",
+                "value": "Ja"
+            },
+            {
+                "key": "Korrosionsbeständig",
+                "value": "Ja"
+            },
+            {
+                "key": "Garantie",
+                "value": "5 Jahre"
+            }
+        ],
+        "preis": 19.99
+    },
+    {
+        "produktbezeichnung": "LED-Baustrahler 50 W",
+        "artikelnummer": "BM-100038",
+        "produktkategorie": "Beleuchtung",
+        "technische_spezifikationen": [
+            {
+                "key": "Leistung",
+                "value": "50 W"
+            },
+            {
+                "key": "Lichtfarbe",
+                "value": "6000 K"
+            },
+            {
+                "key": "Lichtstrom",
+                "value": "4500 lm"
+            },
+            {
+                "key": "Abstrahlwinkel",
+                "value": "120°"
+            },
+            {
+                "key": "Spannung",
+                "value": "230 V AC"
+            },
+            {
+                "key": "Energieeffizienz",
+                "value": "90 lm\/W"
+            },
+            {
+                "key": "Kabellänge",
+                "value": "1,5 m"
+            }
+        ],
+        "eigenschaften": [
+            {
+                "key": "Schutzart",
+                "value": "IP65"
+            },
+            {
+                "key": "Stativ",
+                "value": "Inklusive"
+            },
+            {
+                "key": "Stativhöhe",
+                "value": "90-180 cm"
+            },
+            {
+                "key": "Gehäuse",
+                "value": "Aluminium-Druckguss"
+            },
+            {
+                "key": "Glas",
+                "value": "Sicherheitsglas"
+            },
+            {
+                "key": "Lebensdauer",
+                "value": "30000 h"
+            },
+            {
+                "key": "Schwenkbar",
+                "value": "180°"
+            },
+            {
+                "key": "Garantie",
+                "value": "2 Jahre"
+            }
+        ],
+        "preis": 59.99
+    }
+]

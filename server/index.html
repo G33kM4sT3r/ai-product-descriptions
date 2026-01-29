@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Produkt-Viewer{{pageTitle}}</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar Navigation -->
+        <nav class="sidebar">
+            <div class="sidebar-header">
+                <h2>📦 Produkte</h2>
+                <p>{{productCount}} Produkte verfügbar</p>
+            </div>
+            <ul class="nav-list">
+                {{navItems}}
+            </ul>
+        </nav>
+        
+        <!-- Main Content -->
+        <main class="main-content">
+            <div class="content-wrapper">
+                {{content}}
+            </div>
+        </main>
+    </div>
+</body>
+</html>

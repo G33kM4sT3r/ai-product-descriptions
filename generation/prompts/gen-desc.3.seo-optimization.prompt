@@ -1,0 +1,32 @@
+Optimiere den Text für maximale Suchmaschinen-Performance und Lesbarkeit.
+
+PRODUKT: {{produktbezeichnung}}
+KATEGORIE (nur für SEO-Kontext, NICHT im Text erwähnen!): {{produktkategorie}}
+
+BISHERIGER TEXT:
+{{previousText}}
+
+SEO-OPTIMIERUNG:
+
+1. HAUPT-KEYWORD:
+   - '{{produktbezeichnung}}' muss im ersten Satz stehen
+   - Natürliche Varianten einbauen (Singular/Plural, Synonyme)
+
+2. SEMANTISCHE KEYWORDS (natürlich einbauen, nicht forcieren):
+   - Materialien: Holz, Metall, Beton, Kunststoff, Fliesen, Gipskarton
+   - Aktionen: bohren, schrauben, sägen, schleifen, streichen, montieren, verlegen
+   - Orte: Werkstatt, Baustelle, Garten, Bad, Küche, Außenbereich
+   - Eigenschaften: präzise, kraftvoll, ausdauernd, zuverlässig, handlich, robust
+
+3. LESBARKEIT (Flesch-Index optimieren):
+   - Satzlängen mischen: 8-12 Wörter (kurz) + 15-22 Wörter (mittel)
+   - Abwechselnde Satzanfänge: Der/Die/Das..., Mit..., Dank..., Für..., Sie..., Durch..., Bei...
+   - Aktiv formulieren: 'bohrt durch' statt 'kann gebohrt werden'
+   - Keine Schachtelsätze
+
+4. STRUKTUR:
+   - 3 thematisch getrennte Absätze
+   - Alle Fakten und Zahlen beibehalten
+   - Reiner Fließtext ohne Markdown
+
+SEO-optimierter Text:

@@ -1,0 +1,32 @@
+Erstelle zwei SEO-optimierte Kurzversionen für das Produkt.
+
+PRODUKT: {{produktbezeichnung}}
+
+VOLLSTÄNDIGE BESCHREIBUNG:
+{{finalDescription}}
+
+---
+
+AUFGABE 1 – KURZBESCHREIBUNG (Produktkacheln, Kategorieübersichten):
+
+Anforderungen:
+- Exakt 80-130 Zeichen (inklusive Leerzeichen)
+- Struktur: [Produktname] + [Hauptspezifikation] + [Kernnutzen]
+- Kein Punkt am Ende
+- Keine Floskeln (ideal, perfekt, hochwertig)
+
+---
+
+AUFGABE 2 – META-DESCRIPTION (Google Suchergebnisse):
+
+Anforderungen:
+- Exakt 140-155 Zeichen (inklusive Leerzeichen)
+- Struktur: [Produktname] + [USP/Hauptvorteil]. + [Call-to-Action]
+- CTA am Ende: 'Jetzt bestellen!' oder 'Jetzt kaufen!' oder 'Jetzt entdecken!'
+- Muss zum Klicken animieren
+
+---
+
+ANTWORTFORMAT (exakt einhalten):
+KURZ: [Kurzbeschreibung]
+META: [Meta-Description]

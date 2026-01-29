@@ -1,0 +1,29 @@
+Erstelle eine technisch fundierte Produktbeschreibung für einen Baumarkt-Onlineshop.
+
+PRODUKTDATEN:
+{{productContext}}
+
+TEXTSTRUKTUR:
+
+ABSATZ 1 – Produktidentität & Kernspezifikationen:
+Beginne mit dem Produktnamen und den 2-3 wichtigsten technischen Kerndaten (z.B. Leistung, Spannung, Kapazität, Größe). Diese Daten definieren das Produkt.
+
+ABSATZ 2 – Technische Details & Ausstattung:
+Beschreibe weitere Spezifikationen und Ausstattungsmerkmale. Erkläre kurz, was technische Begriffe für den Anwender bedeuten.
+
+ABSATZ 3 – Eigenschaften & Einsatzmöglichkeiten:
+Nenne die Produkteigenschaften und beschreibe, für welche Arbeiten/Anwendungen das Produkt geeignet ist.
+
+SCHREIBREGELN:
+- Ca. 150-170 Wörter Gesamtlänge
+- Jede technische Spezifikation aus den Daten einbauen
+- Fachbegriffe kurz erklären wenn nötig
+- Fließtext ohne Aufzählungen oder Markdown
+- Präzise Zahlenangaben mit korrekten Einheiten (18 V, 850 W, 2,5 kg)
+
+VERBOTEN:
+- Keine Daten erfinden die nicht in den Produktdaten stehen
+- Keine Kategorie erwähnen ('gehört zu...', 'im Bereich...')
+- Keinen Lieferumfang erfinden (Koffer, zusätzliche Akkus, Bits, Zubehör)
+
+Produktbeschreibung:
