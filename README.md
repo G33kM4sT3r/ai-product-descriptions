@@ -1,5 +1,9 @@
 # Case Study: KI-gestützte Produktbeschreibungen für Baumärkte
 
+[![PHP 8.0+](https://img.shields.io/badge/PHP-8.0+-777BB4?logo=php&logoColor=white)](https://www.php.net/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/martin.willig)
+
 > **Ziel:** Automatisierte Generierung von SEO-optimierten Produktbeschreibungen mittels lokaler KI (LM Studio) – von Rohdaten bis zur Browser-Darstellung.
 
 ---
@@ -32,6 +36,16 @@ Eine 5-stufige KI-Pipeline, die aus strukturierten Produktdaten (JSON) hochwerti
 | 3 | SEO-Optimierung | 0.15 |
 | 4 | Qualitätskontrolle | 0.10 |
 | 5 | Kurztexte & Meta | 0.15 |
+
+```mermaid
+graph LR
+    A[JSON-Rohdaten] --> B[1. Faktenextraktion]
+    B --> C[2. Nutzenargumentation]
+    C --> D[3. SEO-Optimierung]
+    D --> E[4. Qualitätskontrolle]
+    E --> F[5. Kurztexte & Meta]
+    F --> G[Beschreibung + Kurztexte]
+```
 
 ### Ergebnis
 
