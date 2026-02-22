@@ -12,6 +12,9 @@ generation/generation_cache.json
 products/*.md
 !products/.gitkeep
 
+# Design-Dokumente und Pläne
+docs/plans/
+
 # =============================================================================
 # Lokale Konfigurationsdateien
 # =============================================================================
@@ -181,3 +184,6 @@ config.local.php
 *.sql
 *.sqlite
 *.db
+
+# Git Worktrees
+.worktrees/
