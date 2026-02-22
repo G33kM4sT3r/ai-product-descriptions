@@ -1,32 +1,30 @@
-Optimiere den Text für maximale Suchmaschinen-Performance und Lesbarkeit.
+AUFGABE:
+Optimiere den Text für maximale Suchmaschinen-Performance und natürliche Lesbarkeit.
 
-PRODUKT: {{produktbezeichnung}}
-KATEGORIE (nur für SEO-Kontext, NICHT im Text erwähnen!): {{produktkategorie}}
+EINGABE:
+Produkt: {{produktbezeichnung}}
+Kategorie (für SEO-Kontext, NICHT im Text erwähnen): {{produktkategorie}}
 
-BISHERIGER TEXT:
+Bisheriger Text:
 {{previousText}}
 
-SEO-OPTIMIERUNG:
+REGELN:
+1. Produktname '{{produktbezeichnung}}' steht im ersten Satz
+2. Natürliche Keyword-Varianten einbauen (Singular/Plural, Synonyme)
+3. Semantische Keywords passend zum Kontext verwenden (Materialien, Aktionen, Orte)
+4. Satzlängen mischen: kurz (8-12 Wörter) und mittel (15-22 Wörter) abwechselnd
+5. Abwechselnde Satzanfänge: Der/Die/Das, Mit, Dank, Für, Durch, Bei
+6. Aktiv formulieren: 'bohrt durch' statt 'kann gebohrt werden'
+7. Alle Fakten und Zahlen beibehalten
 
-1. HAUPT-KEYWORD:
-   - '{{produktbezeichnung}}' muss im ersten Satz stehen
-   - Natürliche Varianten einbauen (Singular/Plural, Synonyme)
+FORMAT:
+3 Absätze, 650-850 Zeichen gesamt, reiner Fließtext.
 
-2. SEMANTISCHE KEYWORDS (natürlich einbauen, nicht forcieren):
-   - Materialien: Holz, Metall, Beton, Kunststoff, Fliesen, Gipskarton
-   - Aktionen: bohren, schrauben, sägen, schleifen, streichen, montieren, verlegen
-   - Orte: Werkstatt, Baustelle, Garten, Bad, Küche, Außenbereich
-   - Eigenschaften: präzise, kraftvoll, ausdauernd, zuverlässig, handlich, robust
+BEISPIEL (anderes Produkt — nur als Stilvorlage):
+Die Stichsäge PST 700 arbeitet mit 500 Watt und einer Hubzahl von bis zu 3.100 pro Minute. Vier Pendelhubstufen passen die Schnittbewegung dem Material an. Grobe Schnitte in Holz gelingen ebenso zuverlässig wie feine Kurvenschnitte in Sperrholz oder Laminat.
 
-3. LESBARKEIT (Flesch-Index optimieren):
-   - Satzlängen mischen: 8-12 Wörter (kurz) + 15-22 Wörter (mittel)
-   - Abwechselnde Satzanfänge: Der/Die/Das..., Mit..., Dank..., Für..., Sie..., Durch..., Bei...
-   - Aktiv formulieren: 'bohrt durch' statt 'kann gebohrt werden'
-   - Keine Schachtelsätze
+Mit 70 mm Schnitttiefe in Holz trennt die Säge Arbeitsplatten und Kanthölzer in einem Durchgang. In Stahl schneidet sie bis 4 mm zuverlässig. Der werkzeuglose Blattwechsel beschleunigt den Wechsel zwischen Materialien und spart bei wechselnden Aufgaben Zeit.
 
-4. STRUKTUR:
-   - 3 thematisch getrennte Absätze
-   - Alle Fakten und Zahlen beibehalten
-   - Reiner Fließtext ohne Markdown
+Dank 2,0 kg Gewicht liegt das Gerät bei längeren Arbeiten ermüdungsfrei in der Hand. Der Spänebläser hält die Schnittlinie sichtbar und unterstützt präzises Arbeiten. Für Ausschnitte, Anpassungsarbeiten und Gehrungsschnitte bis 45 Grad eignet sich die PST 700 in Werkstatt und auf der Baustelle.
 
 SEO-optimierter Text:

@@ -1,29 +1,24 @@
-Erstelle eine technisch fundierte Produktbeschreibung für einen Baumarkt-Onlineshop.
+AUFGABE:
+Erstelle eine technisch fundierte Produktbeschreibung mit 3 Absätzen aus den gegebenen Produktdaten.
 
-PRODUKTDATEN:
+EINGABE:
 {{productContext}}
 
-TEXTSTRUKTUR:
+REGELN:
+1. Absatz 1: Produktname und 2-3 Kerndaten (Leistung, Spannung, Kapazität, Größe)
+2. Absatz 2: Weitere Spezifikationen und Ausstattungsmerkmale mit kurzer Erklärung
+3. Absatz 3: Eigenschaften und passende Einsatzmöglichkeiten
+4. Jede technische Spezifikation aus den Daten einbauen
+5. Fachbegriffe kurz erklären wenn nötig
 
-ABSATZ 1 – Produktidentität & Kernspezifikationen:
-Beginne mit dem Produktnamen und den 2-3 wichtigsten technischen Kerndaten (z.B. Leistung, Spannung, Kapazität, Größe). Diese Daten definieren das Produkt.
+FORMAT:
+3 Absätze, ca. 150-170 Wörter gesamt, reiner Fließtext ohne Formatierung.
 
-ABSATZ 2 – Technische Details & Ausstattung:
-Beschreibe weitere Spezifikationen und Ausstattungsmerkmale. Erkläre kurz, was technische Begriffe für den Anwender bedeuten.
+BEISPIEL (anderes Produkt — nur als Stilvorlage):
+Die Stichsäge PST 700 arbeitet mit 500 Watt Leistung und erreicht eine Hubzahl von bis zu 3.100 Hüben pro Minute. Der Pendelhub lässt sich in vier Stufen einstellen und passt die Schnittbewegung dem jeweiligen Material an.
 
-ABSATZ 3 – Eigenschaften & Einsatzmöglichkeiten:
-Nenne die Produkteigenschaften und beschreibe, für welche Arbeiten/Anwendungen das Produkt geeignet ist.
+Mit einer maximalen Schnitttiefe von 70 mm in Holz und 4 mm in Stahl deckt die Säge gängige Heimwerker-Aufgaben ab. Die werkzeuglose Sägeblattwechsel-Funktion beschleunigt den Wechsel zwischen unterschiedlichen Sägeblättern. Der Sägeschuh lässt sich für Gehrungsschnitte bis 45 Grad neigen.
 
-SCHREIBREGELN:
-- Ca. 150-170 Wörter Gesamtlänge
-- Jede technische Spezifikation aus den Daten einbauen
-- Fachbegriffe kurz erklären wenn nötig
-- Fließtext ohne Aufzählungen oder Markdown
-- Präzise Zahlenangaben mit korrekten Einheiten (18 V, 850 W, 2,5 kg)
-
-VERBOTEN:
-- Keine Daten erfinden die nicht in den Produktdaten stehen
-- Keine Kategorie erwähnen ('gehört zu...', 'im Bereich...')
-- Keinen Lieferumfang erfinden (Koffer, zusätzliche Akkus, Bits, Zubehör)
+Das 2,0 kg leichte Gerät liegt auch bei längeren Arbeiten angenehm in der Hand. Der Spänebläser hält die Schnittlinie sichtbar. Die Stichsäge eignet sich für Ausschnitte in Arbeitsplatten, Kurvenschnitte in Holzplatten und Anpassungsarbeiten bei Laminat.
 
 Produktbeschreibung:

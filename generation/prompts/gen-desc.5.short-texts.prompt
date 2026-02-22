@@ -1,32 +1,28 @@
+AUFGABE:
 Erstelle zwei SEO-optimierte Kurzversionen für das Produkt.
 
-PRODUKT: {{produktbezeichnung}}
+EINGABE:
+Produkt: {{produktbezeichnung}}
 
-VOLLSTÄNDIGE BESCHREIBUNG:
+Vollständige Beschreibung:
 {{finalDescription}}
 
----
+REGELN KURZBESCHREIBUNG:
+1. Exakt 80-130 Zeichen (inklusive Leerzeichen)
+2. Struktur: Produktname + Hauptspezifikation + Kernnutzen
+3. Kein Punkt am Ende
+4. Sachlicher, fachkundiger Tonfall
 
-AUFGABE 1 – KURZBESCHREIBUNG (Produktkacheln, Kategorieübersichten):
-
-Anforderungen:
-- Exakt 80-130 Zeichen (inklusive Leerzeichen)
-- Struktur: [Produktname] + [Hauptspezifikation] + [Kernnutzen]
-- Kein Punkt am Ende
-- Keine Floskeln (ideal, perfekt, hochwertig)
-
----
-
-AUFGABE 2 – META-DESCRIPTION (Google Suchergebnisse):
-
-Anforderungen:
-- Exakt 140-155 Zeichen (inklusive Leerzeichen)
-- Struktur: [Produktname] + [USP/Hauptvorteil]. + [Call-to-Action]
-- CTA am Ende: 'Jetzt bestellen!' oder 'Jetzt kaufen!' oder 'Jetzt entdecken!'
-- Muss zum Klicken animieren
-
----
+REGELN META-DESCRIPTION:
+1. Exakt 140-155 Zeichen (inklusive Leerzeichen)
+2. Struktur: Produktname + USP/Hauptvorteil. + Call-to-Action
+3. CTA am Ende: 'Jetzt bestellen!' oder 'Jetzt kaufen!' oder 'Jetzt entdecken!'
+4. Muss zum Klicken animieren
 
 ANTWORTFORMAT (exakt einhalten):
-KURZ: [Kurzbeschreibung]
-META: [Meta-Description]
+KURZ: [Kurzbeschreibung hier]
+META: [Meta-Description hier]
+
+BEISPIEL:
+KURZ: Stichsäge PST 700 mit 500 W und 4-stufigem Pendelhub für präzise Schnitte in Holz und Metall
+META: Stichsäge PST 700 mit 500 W Leistung und 70 mm Schnitttiefe in Holz. Vierstufiger Pendelhub für jedes Material. Jetzt bestellen!

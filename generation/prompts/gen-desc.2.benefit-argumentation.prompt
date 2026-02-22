@@ -1,34 +1,28 @@
-Reichere die Produktbeschreibung mit konkretem Kundennutzen an.
+AUFGABE:
+Reichere die Produktbeschreibung mit konkretem Kundennutzen an. Verwandle technische Spezifikationen in greifbare Vorteile.
 
-PRODUKTDATEN (Referenz):
+EINGABE:
+Produktdaten (Referenz):
 {{productContext}}
 
-BISHERIGER TEXT:
+Bisheriger Text:
 {{previousText}}
 
-DEINE AUFGABE:
-Verwandle technische Spezifikationen in greifbare Vorteile für Heimwerker und Profis.
+REGELN:
+1. Alle Fakten und Zahlen aus dem bisherigen Text beibehalten
+2. Mindestens 3 technische Werte mit konkretem Nutzen erweitern
+3. Denkweise: Technischer Wert → Was ermöglicht das? → Konkreter Vorteil im Arbeitsalltag
+4. Ein realistisches Anwendungsszenario passend zum Produkt einbauen
+5. Keine neuen technischen Daten hinzufügen, keinen Lieferumfang erfinden
 
-NUTZEN-TRANSFORMATION (Denkweise, nicht kopieren):
-Technischer Wert → Was ermöglicht das? → Konkreter Vorteil im Arbeitsalltag
+FORMAT:
+3 Absätze, ca. 180-200 Wörter gesamt, reiner Fließtext.
 
-BEISPIELE FÜR NUTZEN-FORMULIERUNGEN:
-- Leistungswerte → Welche Materialien/Werkstücke lassen sich bearbeiten?
-- Akkudaten → Wie lange kann gearbeitet werden? Gewicht bei Überkopfarbeit?
-- Schutzfunktionen → Welche Sicherheit bieten sie?
-- Ergonomie-Features → Wie wirkt sich das bei längeren Arbeiten aus?
+BEISPIEL (anderes Produkt — nur als Stilvorlage):
+Die Stichsäge PST 700 bringt 500 Watt Leistung mit und erreicht dabei bis zu 3.100 Hübe pro Minute. Der vierstufige Pendelhub ermöglicht schnelle, grobe Schnitte ebenso wie feine, präzise Kurvenschnitte — je nach gewählter Stufe. Damit lässt sich die Säge flexibel an Holz, Kunststoff oder dünne Bleche anpassen.
 
-ANFORDERUNGEN:
-1. Alle Fakten und Zahlen aus dem Ausgangstext beibehalten
-2. Mindestens 3 technische Werte mit Nutzenerklärung erweitern
-3. Ein realistisches Anwendungsszenario passend zum Produkt einbauen
-4. Zielgruppe ansprechen ohne 'Sie' zu überstrapazieren
-5. Ca. 180-200 Wörter, 3 Absätze, Fließtext
+Die Schnitttiefe von 70 mm in Holz reicht aus, um gängige Kanthölzer und Arbeitsplatten in einem Durchgang zu trennen. Auch in 4 mm starkem Stahl schneidet das Gerät zuverlässig. Der werkzeuglose Sägeblattwechsel spart bei häufigem Materialwechsel spürbar Zeit und macht einen Schraubendreher überflüssig.
 
-STRIKT VERBOTEN:
-- Keine neuen technischen Daten hinzufügen
-- Keinen Lieferumfang erfinden (Transportkoffer, Ersatzakkus, Bitsets, Ladegeräte)
-- Keine Kategorie erwähnen
-- Keine Floskeln: ideal, perfekt, überzeugt, begeistert
+Bei einem Gewicht von 2,0 kg arbeitet die Säge auch über Kopf oder in beengten Verhältnissen ermüdungsfrei. Der integrierte Spänebläser hält die Schnittlinie frei, was gerade bei Kurvenschnitten in Laminat oder Sperrholz für saubere Ergebnisse sorgt.
 
 Erweiterte Beschreibung:

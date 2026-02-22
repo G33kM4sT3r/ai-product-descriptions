@@ -1,32 +1,24 @@
-Führe eine rigorose Qualitätskontrolle durch und liefere den finalen Text.
+AUFGABE:
+Führe eine rigorose Qualitätskontrolle durch und liefere den finalen, fehlerfreien Text.
 
-PRODUKTDATEN (FAKTEN-REFERENZ – jede Zahl muss stimmen!):
+EINGABE:
+Produktdaten (Fakten-Referenz):
 {{productContext}}
 
-ZU PRÜFENDER TEXT:
+Zu prüfender Text:
 {{previousText}}
 
 QUALITÄTS-CHECKLISTE:
+1. Jede Zahl im Text mit den Produktdaten abgleichen — falsche Werte korrigieren
+2. Jede genannte Eigenschaft muss in den Daten stehen — erfundene Angaben entfernen
+3. Lieferumfang nur erwähnen wenn explizit in den Daten vorhanden
+4. Kategorie-Erwähnung ('gehört zu', 'im Bereich') komplett entfernen
+5. Sachlichen, fachkundigen Tonfall sicherstellen
+6. Einheiten: Leerzeichen vor Einheit (18 V, 850 W, 2,5 kg, 13 mm)
+7. Dezimalzahlen: deutsches Komma (2,5), Tausenderpunkt (10.000)
+8. Keine zwei aufeinanderfolgenden Sätze mit demselben Wort beginnen
 
-1. FAKTEN-VALIDIERUNG (KRITISCH):
-   - Jede Zahl im Text mit den Produktdaten abgleichen → Falsche korrigieren
-   - Jede genannte Eigenschaft muss in den Daten stehen → Erfundenes entfernen
-   - Lieferumfang geprüft? Koffer/Akkus/Zubehör nur wenn in Daten! → Erfundenes entfernen
-   - Kategorie erwähnt? ('gehört zu', 'im Bereich', 'Kategorie') → Komplett entfernen
+FORMAT:
+3 Absätze, 650-850 Zeichen gesamt, reiner Fließtext ohne Formatierung.
 
-2. SPRACH-QUALITÄT:
-   - Verbotene Wörter ersetzen:
-      • ideal/perfekt → 'geeignet für', 'eignet sich für', 'passend für'
-      • überzeugt/begeistert → 'bietet', 'liefert', 'ermöglicht'
-      • hochwertig → konkretes Material nennen oder streichen
-   - Keine zwei Sätze mit gleichem Wort beginnen
-   - Keine Wortwiederholungen in Folgesätzen
-
-3. FORMAT-STANDARDS:
-   - Einheiten: Leerzeichen vor Einheit (18 V, 850 W, 2,5 kg, 13 mm)
-   - Dezimalzahlen: Deutsches Komma (2,5 statt 2.5)
-   - Tausender: Punkt (10.000 U/min)
-   - 3 Absätze, 650-850 Zeichen gesamt
-   - Reiner Fließtext, kein Markdown
-
-Finaler, fehlerfreier Text:
+Finaler Text:
