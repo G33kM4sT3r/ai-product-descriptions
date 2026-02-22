@@ -7,21 +7,19 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <!-- Sidebar Navigation -->
-        <nav class="sidebar">
+    <div class="layout">
+        <nav class="sidebar" role="navigation" aria-label="Produktnavigation">
             <div class="sidebar-header">
-                <h2>📦 Produkte</h2>
-                <p>{{productCount}} Produkte verfügbar</p>
+                <h2>Produkte</h2>
+                <span class="badge">{{productCount}}</span>
             </div>
-            <ul class="nav-list">
+            <ul class="nav-list" role="list">
                 {{navItems}}
             </ul>
         </nav>
-        
-        <!-- Main Content -->
-        <main class="main-content">
-            <div class="content-wrapper">
+
+        <main class="main" role="main">
+            <div class="content">
                 {{content}}
             </div>
         </main>

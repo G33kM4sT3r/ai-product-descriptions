@@ -1,3 +1,7 @@
+/* ==========================================================================
+   Produkt-Viewer — Minimal Dark Design
+   ========================================================================== */
+
 * {
     margin: 0;
     padding: 0;
@@ -6,14 +10,18 @@
 
 :root {
     --bg-primary: #0a0a0a;
-    --bg-secondary: #111111;
-    --bg-tertiary: #1a1a1a;
-    --text-primary: #e0e0e0;
-    --text-secondary: #8a8a8a;
-    --accent: #0a84ff;
-    --accent-hover: #409cff;
-    --border: #2d2d2d;
-    --code-bg: #050505;
+    --bg-secondary: #0f0f0f;
+    --bg-card: #141414;
+    --bg-hover: #1a1a1a;
+    --text-primary: #e8e8e8;
+    --text-secondary: #707070;
+    --text-muted: #4a4a4a;
+    --accent: #3b82f6;
+    --accent-soft: rgba(59, 130, 246, 0.08);
+    --border: #1e1e1e;
+    --border-subtle: #161616;
+    --radius: 12px;
+    --radius-sm: 8px;
 }
 
 html, body {
@@ -21,221 +29,477 @@ html, body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
     background: var(--bg-primary);
     color: var(--text-primary);
-    line-height: 1.6;
+    font-size: 17px;
+    line-height: 1.75;
 }
 
-.container {
-    display: flex;
+/* ==========================================================================
+   Layout
+   ========================================================================== */
+
+.layout {
+    display: grid;
+    grid-template-columns: 300px 1fr;
     height: 100vh;
 }
 
-/* Sidebar Navigation */
+/* ==========================================================================
+   Sidebar
+   ========================================================================== */
+
 .sidebar {
-    width: 320px;
-    min-width: 320px;
     background: var(--bg-secondary);
     border-right: 1px solid var(--border);
     overflow-y: auto;
-    padding: 20px 0;
+    display: flex;
+    flex-direction: column;
 }
 
 .sidebar-header {
-    padding: 0 20px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px 20px 16px;
     border-bottom: 1px solid var(--border);
-    margin-bottom: 10px;
 }
 
 .sidebar-header h2 {
-    color: var(--accent);
-    font-size: 1.2rem;
-    margin-bottom: 5px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-secondary);
 }
 
-.sidebar-header p {
-    color: var(--text-secondary);
-    font-size: 0.85rem;
+.badge {
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 2px 10px;
+    border-radius: 100px;
 }
 
 .nav-list {
     list-style: none;
-}
-
-.nav-item {
-    border-bottom: 1px solid var(--border);
+    flex: 1;
+    overflow-y: auto;
+    padding: 8px 0;
 }
 
 .nav-item a {
     display: block;
-    padding: 12px 20px;
-    color: var(--text-primary);
+    padding: 10px 20px;
     text-decoration: none;
+    color: var(--text-primary);
+    border-left: 3px solid transparent;
     transition: all 0.2s ease;
 }
 
 .nav-item a:hover {
-    background: var(--bg-tertiary);
-    color: var(--accent);
-    padding-left: 25px;
+    background: var(--bg-hover);
+    border-left-color: var(--border);
 }
 
 .nav-item.active a {
-    background: var(--bg-tertiary);
-    color: var(--accent);
-    border-left: 3px solid var(--accent);
+    background: var(--accent-soft);
+    border-left-color: var(--accent);
 }
 
-.nav-item .artikelnummer {
+.nav-title {
+    display: block;
+    font-size: 0.9rem;
+    font-weight: 500;
+    line-height: 1.4;
+}
+
+.nav-artikelnummer {
     display: block;
     font-size: 0.75rem;
-    color: var(--text-secondary);
+    color: var(--text-muted);
     margin-top: 2px;
+    font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
 }
 
-/* Main Content */
-.main-content {
-    flex: 1;
+/* ==========================================================================
+   Main Content
+   ========================================================================== */
+
+.main {
     overflow-y: auto;
-    padding: 40px;
+    padding: 48px;
 }
 
-.content-wrapper {
-    max-width: 900px;
+.content {
+    max-width: 820px;
     margin: 0 auto;
 }
 
-/* Welcome Screen */
+/* ==========================================================================
+   Welcome Screen
+   ========================================================================== */
+
 .welcome {
     text-align: center;
-    padding: 100px 20px;
+    padding: 120px 20px;
 }
 
 .welcome h1 {
-    color: var(--accent);
-    font-size: 2.5rem;
-    margin-bottom: 20px;
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 12px;
+    border: none;
+    padding: 0;
 }
 
 .welcome p {
     color: var(--text-secondary);
-    font-size: 1.1rem;
+    font-size: 1rem;
 }
 
-/* Typography */
+.warning {
+    margin-top: 24px;
+    padding: 16px 20px;
+    background: rgba(245, 158, 11, 0.06);
+    border: 1px solid rgba(245, 158, 11, 0.15);
+    border-radius: var(--radius-sm);
+    color: #d97706;
+    font-size: 0.9rem;
+}
+
+/* ==========================================================================
+   Typography
+   ========================================================================== */
+
 h1 {
-    font-size: 2rem;
-    color: var(--accent);
-    margin-bottom: 20px;
-    padding-bottom: 10px;
-    border-bottom: 2px solid var(--border);
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 16px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--border);
+    line-height: 1.3;
 }
 
 h2 {
-    font-size: 1.4rem;
-    color: var(--text-primary);
-    margin: 30px 0 15px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+    letter-spacing: 0.03em;
+    margin: 0 0 16px;
 }
 
 h3 {
-    font-size: 1.2rem;
+    font-size: 0.95rem;
+    font-weight: 600;
     color: var(--text-secondary);
-    margin: 20px 0 10px;
+    margin: 16px 0 8px;
 }
 
 p {
-    margin-bottom: 15px;
+    margin-bottom: 12px;
 }
 
-blockquote {
-    background: var(--bg-tertiary);
-    border-left: 4px solid var(--accent);
-    padding: 15px 20px;
-    margin: 20px 0;
-    border-radius: 0 8px 8px 0;
-    font-style: italic;
-    color: var(--text-secondary);
+code {
+    background: var(--bg-card);
+    padding: 2px 7px;
+    border-radius: 4px;
+    font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+    font-size: 0.85em;
+    color: var(--accent);
 }
 
 hr {
     border: none;
     border-top: 1px solid var(--border);
-    margin: 30px 0;
+    margin: 32px 0;
 }
 
-code {
-    background: var(--code-bg);
-    padding: 2px 6px;
-    border-radius: 4px;
-    font-family: 'Fira Code', 'Consolas', monospace;
-    font-size: 0.9em;
+blockquote {
+    border-left: 3px solid var(--border);
+    padding: 8px 16px;
+    margin: 16px 0;
+    color: var(--text-secondary);
+    font-style: italic;
 }
 
-/* Tables */
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-    background: var(--bg-secondary);
-    border-radius: 8px;
-    overflow: hidden;
+/* ==========================================================================
+   Hero Banner
+   ========================================================================== */
+
+.hero-banner {
+    background: var(--accent-soft);
+    border: 1px solid rgba(59, 130, 246, 0.12);
+    border-radius: var(--radius);
+    padding: 20px 24px;
+    margin-bottom: 24px;
 }
 
-thead {
-    background: var(--bg-tertiary);
+.hero-banner p {
+    color: var(--text-primary);
+    font-size: 1.05rem;
+    line-height: 1.7;
+    margin: 0;
 }
 
-th, td {
-    padding: 12px 15px;
-    text-align: left;
-    border-bottom: 1px solid var(--border);
+/* ==========================================================================
+   Product Info Banner
+   ========================================================================== */
+
+.product-info-banner {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 28px;
 }
 
-th {
+.info-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    border-radius: 100px;
+    padding: 6px 14px;
+    font-size: 0.8rem;
+}
+
+.info-label {
+    color: var(--text-muted);
+    font-weight: 500;
+}
+
+.info-item {
+    color: var(--text-secondary);
+}
+
+/* ==========================================================================
+   Cards
+   ========================================================================== */
+
+.card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius);
+    padding: 24px;
+    margin-bottom: 20px;
+}
+
+.card h2 {
+    margin-bottom: 16px;
+}
+
+/* ==========================================================================
+   Prose (Produktbeschreibung)
+   ========================================================================== */
+
+.prose {
+    color: var(--text-primary);
+    line-height: 1.8;
+}
+
+.prose p {
+    margin-bottom: 16px;
+}
+
+.prose p:last-child {
+    margin-bottom: 0;
+}
+
+.prose strong {
     font-weight: 600;
-    color: var(--accent);
-    font-size: 0.9rem;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
+    color: var(--text-primary);
 }
 
-tr:last-child td {
+.prose em {
+    color: var(--text-secondary);
+}
+
+/* ==========================================================================
+   SEO Card
+   ========================================================================== */
+
+.card-seo .meta-description {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+}
+
+.meta-label {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+}
+
+.meta-count {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+}
+
+.meta-text {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    line-height: 1.7;
+    padding: 12px 16px;
+    background: var(--bg-secondary);
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--border);
+    margin: 0;
+}
+
+/* ==========================================================================
+   Key-Value Grid
+   ========================================================================== */
+
+.kv-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0;
+}
+
+.kv-row {
+    display: grid;
+    grid-template-columns: minmax(140px, 0.4fr) 1fr;
+    gap: 16px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border-subtle);
+    align-items: baseline;
+}
+
+.kv-row:last-child {
     border-bottom: none;
 }
 
-tr:hover {
-    background: rgba(233, 69, 96, 0.05);
+.kv-label {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    font-weight: 500;
 }
 
-/* Scrollbar */
-::-webkit-scrollbar {
+.kv-value {
+    color: var(--text-primary);
+    font-size: 0.9rem;
+}
+
+.kv-value strong {
+    font-weight: 600;
+}
+
+/* ==========================================================================
+   Details / Summary (collapsible sections)
+   ========================================================================== */
+
+details.card {
+    padding: 0;
+}
+
+details.card summary {
+    padding: 20px 24px;
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    user-select: none;
+}
+
+details.card summary::-webkit-details-marker {
+    display: none;
+}
+
+details.card summary::after {
+    content: '';
     width: 8px;
+    height: 8px;
+    border-right: 2px solid var(--text-muted);
+    border-bottom: 2px solid var(--text-muted);
+    transform: rotate(45deg);
+    transition: transform 0.2s ease;
+    flex-shrink: 0;
+    margin-left: 12px;
+}
+
+details[open].card summary::after {
+    transform: rotate(-135deg);
+}
+
+details.card summary h2 {
+    margin: 0;
+}
+
+details.card summary:hover {
+    background: var(--bg-hover);
+}
+
+details.card > .kv-grid {
+    padding: 0 24px 20px;
+    border-top: 1px solid var(--border-subtle);
+}
+
+/* ==========================================================================
+   Scrollbar
+   ========================================================================== */
+
+::-webkit-scrollbar {
+    width: 6px;
 }
 
 ::-webkit-scrollbar-track {
-    background: var(--bg-primary);
+    background: transparent;
 }
 
 ::-webkit-scrollbar-thumb {
     background: var(--border);
-    border-radius: 4px;
+    border-radius: 3px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: var(--accent);
+    background: var(--text-muted);
 }
 
-/* Responsive */
+/* ==========================================================================
+   Responsive
+   ========================================================================== */
+
 @media (max-width: 768px) {
-    .container {
+    .layout {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto 1fr;
+    }
+
+    .sidebar {
+        max-height: 35vh;
+        border-right: none;
+        border-bottom: 1px solid var(--border);
+    }
+
+    .main {
+        padding: 24px 16px;
+    }
+
+    .kv-row {
+        grid-template-columns: 1fr;
+        gap: 4px;
+    }
+
+    .product-info-banner {
         flex-direction: column;
     }
-    
-    .sidebar {
-        width: 100%;
-        min-width: 100%;
-        max-height: 40vh;
+
+    details.card summary {
+        padding: 16px;
     }
-    
-    .main-content {
-        padding: 20px;
+
+    details.card > .kv-grid {
+        padding: 0 16px 16px;
+    }
+
+    .card {
+        padding: 16px;
     }
 }

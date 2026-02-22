@@ -49,7 +49,7 @@ Each stage uses a prompt template from `generation/prompts/` with `{{variable}}`
 - `generation/gen-markdown.conf.php` — Markdown export config. Copy from `.conf.example.php`
 - `generation/prompts/*.prompt` — Prompt templates (AUFGABE → EINGABE → REGELN → FORMAT → BEISPIEL structure)
 - `scripts/*.sh` — Shell scripts for orchestration, logging, pre-flight checks
-- `server/server.php` — Router + markdown-to-HTML converter + template renderer
+- `server/server.php` — Product viewer: Section enum, Product readonly class, section-aware rendering (cards, kv-grids, collapsible details), match-based routing
 - `test-products.json` — Input product data (artikelnummer, technische_spezifikationen, eigenschaften)
 
 ### Data Flow
